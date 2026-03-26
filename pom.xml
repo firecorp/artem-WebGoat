@@ -323,6 +323,7 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-security</artifactId>
+      <version>3.2.11</version>
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
@@ -330,6 +331,7 @@
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
+      <version>3.2.11</version>
       <artifactId>spring-boot-starter-oauth2-client</artifactId>
     </dependency>
     <dependency>
